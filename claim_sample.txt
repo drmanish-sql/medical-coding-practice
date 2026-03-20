@@ -1,0 +1,5 @@
+Patient: Amit Sharma
+Diagnosis: Type 2 Diabetes (E11.9)
+Procedure: RCT (D3310)
+Claim Amount: 5000
+Status: Approved
