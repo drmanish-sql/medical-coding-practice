@@ -1,0 +1,11 @@
+Case 1:
+Patient with Type 2 Diabetes
+ICD-10 Code: E11.9
+
+Case 2:
+Chronic periodontitis
+ICD-10 Code: K05.3
+
+Case 3:
+Hypertension
+ICD-10 Code: I10
