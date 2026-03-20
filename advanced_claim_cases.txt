@@ -1,0 +1,30 @@
+Case 1:
+Patient: Male, 45 yrs
+Diagnosis: Chronic Periodontitis (K05.3)
+Procedure: Scaling and Root Planing (D4341)
+Claim Status: Approved
+
+Reason:
+Procedure justified by diagnosis
+
+----------------------------------
+
+Case 2:
+Patient: Female, 30 yrs
+Diagnosis: Dental Caries (K02.9)
+Procedure: Dental Implant (D6010)
+Claim Status: Rejected
+
+Reason:
+Procedure not justified by diagnosis
+
+----------------------------------
+
+Case 3:
+Patient: Male, 50 yrs
+Diagnosis: Hypertension (I10)
+Procedure: Tooth Extraction (D7140)
+Claim Status: Pending
+
+Reason:
+Medical necessity unclear
